@@ -13,6 +13,7 @@ int main(){ //mulai langkah
     cin >> l;
 
     //langkah 4
+    
     luas = p*l;
 
     //langkah 5
