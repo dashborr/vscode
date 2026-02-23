@@ -1,6 +1,6 @@
 //contoh library
 #include <iostream>
-using namesapace std;
+using namespace std;
 
 //variable global
 string nama;
